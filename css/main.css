@@ -24,7 +24,7 @@ h1{
   /* cursor: pointer; */
   position: relative;
 }
-.sq{
+.tile{
   color:pink;
   font-size: 2em;
   display: flex;
